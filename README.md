@@ -1,7 +1,7 @@
 # CodesmithCSX_Recursion_Challenges_and_Solutions 
 ## I would encourage attemping the challenges first, before looking at the answers. 
 
-### Sign-up, here: https://csx.codesmith.io/units/recursion/challenge-flow
+### Sign-up, here: https://csx.codesmith.io/units/recursion/
 
 
 ### Codesmith CSX Recursion Challenges with Solutions
